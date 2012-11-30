@@ -1,6 +1,8 @@
-Please, if you are reading this, refrain from posting it on social sites until Monday, December 2nd.  I am editing, reviewing, and bringing up the whycoffeescript.com site.  In the meantime please feel free to add *positive* contributions or feedback.
+*Please, if you are reading this, refrain from posting it on social sites until Monday, December 2nd.  I am editing, reviewing, and bringing up the whycoffeescript.com site.  In the meantime please feel free to add *positive* contributions or feedback.*
 
-Sincere thanks, **Charles**
+*Sincere thanks,*
+
+*__Charles__*
 
 
 
@@ -58,25 +60,25 @@ List comprehensions, default values, destructuring assignments, rest/spread, cla
 
 I'm not the only one who thinks CoffeeScript is a life-changing experience.  Just look at these answers to *"Has anyone found CoffeeScript to be lifechanging?"* [\[11\]](http://news.ycombinator.com/item?id=2442743 "patio11 comments on: Rails 3.1 shipping with CoffeeScript").  JavaScript rarely elicits these adjectives (emphasis mine):
 
-*"After a few months of CoffeeScript development... Jeremy, et. al., have done a **beautiful** job with it"*
+*"After a few months of CoffeeScript development... Jeremy, et. al., have done a __beautiful__ job with it"*
 
-*"Yes, CoffeeScript is **amazing**."*
+*"Yes, CoffeeScript is __amazing__."*
 
-*"...CoffeeScript is a **joy** to use"*
+*"...CoffeeScript is a __joy__ to use"*
 
-*"...it's class system and function binding (=>) is something I feel **I can no longer live without**."*
+*"...it's class system and function binding (=>) is something I feel __I can no longer live without__."*
 
-*"Coffeescript makes it **fun and productive.**"*
+*"Coffeescript makes it __fun and productive.__"*
 
-*"Yes, it's my **favorite** language. **Very fun and nice**..."*
+*"Yes, it's my __favorite__ language. __Very fun and nice__..."*
 
 And more across the web:
 
-*"CoffeeScript makes jQuery more **fun** than ever."* [\[12\]](http://buhrmi.tumblr.com/post/5371876452/how-coffeescript-makes-jquery-more-fun-than-ever "How CoffeeScript makes jQuery more fun than ever")
+*"CoffeeScript makes jQuery more __fun__ than ever."* [\[12\]](http://buhrmi.tumblr.com/post/5371876452/how-coffeescript-makes-jquery-more-fun-than-ever "How CoffeeScript makes jQuery more fun than ever")
 
-*"Writing JavaScript becomes **fun** again."* [\[13\]](http://www.mikkolehtinen.com/blog/2012/05/25/rewindy-tech-stack/ "Rewindy Tech Stack")
+*"Writing JavaScript becomes __fun__ again."* [\[13\]](http://www.mikkolehtinen.com/blog/2012/05/25/rewindy-tech-stack/ "Rewindy Tech Stack")
 
-*"...CoffeeScript is **Awesome**."* [\[14\]](http://www.slideshare.net/jocranford/why-i-think-coffeescript-is-awesome "Why (I think) CoffeeScript is Awesome")
+*"...CoffeeScript is __Awesome__."* [\[14\]](http://www.slideshare.net/jocranford/why-i-think-coffeescript-is-awesome "Why (I think) CoffeeScript is Awesome")
 
 Such statements are rather common.  There is even a site dedicated to CoffeeScript Love [\[15\]](http://www.coffeescriptlove.com/ "CoffeeScript Love").  I wake up in the morning excited to continue development.  To me, this is the most valuable trait of all.
 
