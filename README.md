@@ -40,7 +40,7 @@ Many libs exist to help JavaScript be less "tricky".  CoffeeScript does not need
 
 ##CoffeeScript saves time.
 
-A recent project is 8500 lines of CoffeeScript, compiling to 14000 in JavaScript.  No linting, little debugging, less keystrokes.  I raised my rates by 1/3 when I learned Coffee.  When I became good at it, I raised them by another third.  My clients are happy because I complete projects faster.  So are my friends, and my bank account.  *(Plus, better efficiency means less electricity wasted on long hours, and [I love sustainability](http://designersaccord.com).)*  Anecdotal, but many feel the same way:
+A recent project is 8500 lines of CoffeeScript, compiling to 14000 in JavaScript.  No linting, little debugging, less keystrokes.  I raised my rates by 1/3 when I learned Coffee.  When I became good at it, I raised them by another third.  My clients are happy because I complete projects faster.  So are my friends, and my bank account.  *(Plus, better efficiency means less electricity wasted on long hours, and [I love sustainability](http://designersaccord.org).)*  Anecdotal, but many feel the same way:
 
 "And I believe the vast majority of JS developers will see productivity gains by embracing CoffeeScript." [\[6\]](http://www.quora.com/CoffeeScript/What-are-disadvantages-of-using-CoffeeScript "What are disadvantages of using CoffeeScript?").
 
@@ -82,7 +82,8 @@ And more across the web:
 
 Such statements are rather common.  There is even a site dedicated to CoffeeScript Love [\[15\]](http://www.coffeescriptlove.com/ "CoffeeScript Love").  I wake up in the morning excited to continue development.  To me, this is the most valuable trait of all.
 
-
+-----------------------------
+###About the author:
 
 *Charles Phillips (aka [doublerebel](http://doublerebel.com)) has been writing JavaScript for at least 15 years, and is the author of [TigerJS](http://tigerjs.com), a port of [Spine.JS](http://spinejs.com) to [Titanium Mobile](http://appcelerator.com) in CoffeeScript.  Charles advocated for server-side JavaScript before it was cool, and looks forward to when the whole world runs on ES6.*
 
