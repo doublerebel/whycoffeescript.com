@@ -1,4 +1,4 @@
-*Please, if you are reading this, refrain from posting it on social sites until Monday, December 2nd.  I am editing, reviewing, and bringing up the whycoffeescript.com site.  In the meantime please feel free to add *positive* contributions or feedback.*
+*Please, if you are reading this, refrain from posting it on social sites until Monday, December 2nd.  I am editing, reviewing, and bringing up the whycoffeescript.com site.  In the meantime please feel free to add constructive contributions or feedback.*
 
 *Sincere thanks,*
 
@@ -60,11 +60,11 @@ List comprehensions, default values, destructuring assignments, rest/spread, cla
 
 I'm not the only one who thinks CoffeeScript is a life-changing experience.  Just look at these answers to *"Has anyone found CoffeeScript to be lifechanging?"* [\[11\]](http://news.ycombinator.com/item?id=2442743 "patio11 comments on: Rails 3.1 shipping with CoffeeScript").  JavaScript rarely elicits these adjectives (emphasis mine):
 
-*"After a few months of CoffeeScript development... Jeremy, et. al., have done a __beautiful__ job with it"*
+*"After a few months of CoffeeScript development... Jeremy, et. al., have done a __beautiful__ job with it."*
 
 *"Yes, CoffeeScript is __amazing__."*
 
-*"...CoffeeScript is a __joy__ to use"*
+*"...CoffeeScript is a __joy__ to use."*
 
 *"...it's class system and function binding (=>) is something I feel __I can no longer live without__."*
 
@@ -84,7 +84,7 @@ Such statements are rather common.  There is even a site dedicated to CoffeeScri
 
 
 
-*Charles Phillips (aka doublerebel) has been writing JavaScript for at least 15 years, and is the author of [TigerJS](http://tigerjs.com), a port of [Spine.JS](http://spinejs.com) to [Titanium Mobile](http://appcelerator.com) in CoffeeScript.  Charles advocated for server-side JavaScript before it was cool, and looks forward to when the whole world runs on ES6.*
+*Charles Phillips (aka [doublerebel](http://doublerebel.com)) has been writing JavaScript for at least 15 years, and is the author of [TigerJS](http://tigerjs.com), a port of [Spine.JS](http://spinejs.com) to [Titanium Mobile](http://appcelerator.com) in CoffeeScript.  Charles advocated for server-side JavaScript before it was cool, and looks forward to when the whole world runs on ES6.*
 
 -----------------------------
 ###References:
