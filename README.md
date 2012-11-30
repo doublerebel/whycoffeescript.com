@@ -13,12 +13,12 @@ I love CoffeeScript.  It has made programming fun again, like when I was a child
 
 ##CoffeeScript forces a JavaScript programmer to admit that they are wrong.
 
-They could be solving problems in a better way.  Sit down and write a piece of code in JavaScript and in CoffeeScript.  CoffeeScript generates the most performant JavaScript code.  Does your JS code look exactly like what Coffee generated?  Why not?  Did you forget to cache the array length and Coffee remembered?  Did you forget a semicolon and CoffeeScript didn't?  Are you not following good formatting practices?  If there is a 'best practice', CoffeeScript does it automatically.  There are endless JS performance articles I have read over the years, but that shouldn't be a precursor to writing good code.  That is the point of using a higher-order language.
+They could be solving problems in a better way.  Sit down and write a piece of code in JavaScript and in CoffeeScript.  CoffeeScript generates performant, organized JavaScript code.  Does your JS code look exactly like what Coffee generated?  Why not?  Did you forget to cache the array length and Coffee remembered?  Did you forget a semicolon and CoffeeScript didn't?  Are you not following good formatting practices?  If there is a 'best practice', CoffeeScript does it automatically.  There are endless JS performance articles I have read over the years, but that shouldn't be a precursor to writing good code.  That is the point of using a higher-order language.
 
 
 ##CoffeeScript is JavaScript.
 
-Debugging CoffeeScript is no different than debugging JavaScript -- CoffeeScript is just *syntax* for JavaScript.  Any trouble debugging CoffeeScript is due to a misunderstanding of  JavaScript.  If the function is too deeply nested or too complex to debug, it should be rewritten.  Named, modular, single-purpose functions are very easy to debug in any language.
+Debugging CoffeeScript is no different than debugging JavaScript -- CoffeeScript is just *syntax* for JavaScript.  Any trouble debugging CoffeeScript is due to a misunderstanding of JavaScript.  If the function is too deeply nested or too complex to debug, it should be rewritten.  Named, modular, single-purpose functions are very easy to debug in any language.
 
 
 ##CoffeeScript is Functional Programming.
@@ -28,14 +28,14 @@ This is a huge change in thinking about how to solve problems -- every function 
 
 ##CoffeeScript is a DSL.
 
-CoffeeScript is English.  Why create a DSL or write out problems in pseudocode?  Because it's easier for most to express their thoughts in their native language [\[3\]](http://amix.dk/blog/post/19614 "Domain Specific Languages in CoffeeScript").  It removes the pieces of programming that only computers need (braces, etc.), enhancing focus on the real issue that needs to be solved.
+CoffeeScript is English.  Why create a DSL or write out problems in pseudocode?  Because it's easier for most to express their thoughts in their native language [\[3\]](http://amix.dk/blog/post/19614 "Domain Specific Languages in CoffeeScript").  It removes the pieces of programming that only computers need (braces, semicolons, etc.), enhancing focus on the real issue that needs to be solved.
 
 Because CoffeeScript is in English, it is easier to talk about the problems I am solving.  Whether I am discussing with a fellow programmer, or summarizing my current work to describe my day to my girlfriend, I often speak the code verbatim.  Storytelling makes problems easier to solve [\[4\]](http://blog.bufferapp.com/science-of-storytelling-why-telling-a-story-is-the-most-powerful-way-to-activate-our-brains "What Storytelling Does to Our Brains").
 
 
 ##CoffeeScript debugs itself.
 
-Many libs exist to help JavaScript be less "tricky".  CoffeeScript does not need linting -- CoffeeScript has the compile-time syntax checking that devs in other languages rave about.  It even has typing available with Contracts.coffee [\[5\]](http://disnetdev.com/contracts.coffee/ "Contracts.coffee").  If a programmer considers themselves good at JavaScript, why do they need a linter?  Perhaps it's time to admit that JavaScript's shortcomings are holding us back.
+Many libs and tools exist to help JavaScript be less "tricky".  CoffeeScript does not need linting -- CoffeeScript has the compile-time syntax checking that devs in other languages rave about.  It even has typing available with Contracts.coffee [\[5\]](http://disnetdev.com/contracts.coffee/ "Contracts.coffee").  If a programmer considers themselves good at JavaScript, why do they need a linter?  Perhaps it's time to admit that JavaScript's shortcomings are holding us back.
 
 
 ##CoffeeScript saves time.
