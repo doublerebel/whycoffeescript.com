@@ -49,34 +49,34 @@ A recent project is 8500 lines of CoffeeScript, compiling to 14000 in JavaScript
 "Succinctness is Power" [\[9\]](http://www.paulgraham.com/power.html "Succinctness is Power")
 
 
-##CoffeeScript is ES.next
+##CoffeeScript is ES.next.
 
 List comprehensions, default values, destructuring assignments, rest/spread, classes, are all in ES6, and also in CoffeeScript [\[10\]](http://www.slideshare.net/BrendanEich/esnext "CoffeeScript as a JS/Next / ES.next").  Anyone who is serious about moving JavaScript forward should appreciate the usefulness of these features.
 
 
 ##CoffeeScript has a powerful effect on others.
 
-I'm not the only one who thinks CoffeeScript is a life-changing experience.  Just look at these answers to "Has anyone found CoffeeScript to be lifechanging?" [\[11\]](http://news.ycombinator.com/item?id=2442743 "patio11 comments on: Rails 3.1 shipping with CoffeeScript").  JavaScript rarely elicits these adjectives (emphasis mine):
+I'm not the only one who thinks CoffeeScript is a life-changing experience.  Just look at these answers to *"Has anyone found CoffeeScript to be lifechanging?"* [\[11\]](http://news.ycombinator.com/item?id=2442743 "patio11 comments on: Rails 3.1 shipping with CoffeeScript").  JavaScript rarely elicits these adjectives (emphasis mine):
 
-"After a few months of CoffeeScript development... Jeremy, et. al., have done a **beautiful** job with it"
+*"After a few months of CoffeeScript development... Jeremy, et. al., have done a **beautiful** job with it"*
 
-"Yes, CoffeeScript is **amazing**."
+*"Yes, CoffeeScript is **amazing**."*
 
-"...CoffeeScript is a **joy** to use"
+*"...CoffeeScript is a **joy** to use"*
 
-"...it's class system and function binding (=>) is something I feel **I can no longer live without**."
+*"...it's class system and function binding (=>) is something I feel **I can no longer live without**."*
 
-"Coffeescript makes it **fun and productive.**"
+*"Coffeescript makes it **fun and productive.**"*
 
-"Yes, it's my **favorite** language. **Very fun and nice**..."
+*"Yes, it's my **favorite** language. **Very fun and nice**..."*
 
 And more across the web:
 
-"CoffeeScript makes jQuery more **fun** than ever." [\[12\]](http://buhrmi.tumblr.com/post/5371876452/how-coffeescript-makes-jquery-more-fun-than-ever "How CoffeeScript makes jQuery more fun than ever") 
+*"CoffeeScript makes jQuery more **fun** than ever."* [\[12\]](http://buhrmi.tumblr.com/post/5371876452/how-coffeescript-makes-jquery-more-fun-than-ever "How CoffeeScript makes jQuery more fun than ever")
 
-"Writing JavaScript becomes **fun** again."" [\[13\]](http://www.mikkolehtinen.com/blog/2012/05/25/rewindy-tech-stack/ "Rewindy Tech Stack")
+*"Writing JavaScript becomes **fun** again."* [\[13\]](http://www.mikkolehtinen.com/blog/2012/05/25/rewindy-tech-stack/ "Rewindy Tech Stack")
 
-"...CoffeeScript is **Awesome**." [\[14\]](http://www.slideshare.net/jocranford/why-i-think-coffeescript-is-awesome "Why (I think) CoffeeScript is Awesome")
+*"...CoffeeScript is **Awesome**."* [\[14\]](http://www.slideshare.net/jocranford/why-i-think-coffeescript-is-awesome "Why (I think) CoffeeScript is Awesome")
 
 Such statements are rather common.  There is even a site dedicated to CoffeeScript Love [\[15\]](http://www.coffeescriptlove.com/ "CoffeeScript Love").  I wake up in the morning excited to continue development.  To me, this is the most valuable trait of all.
 
