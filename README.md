@@ -42,7 +42,7 @@ Many libs and tools exist to help JavaScript be less "tricky".  CoffeeScript doe
 
 A recent project is 8500 lines of CoffeeScript, compiling to 14000 in JavaScript.  No linting, little debugging, less keystrokes.  I raised my rates by 1/3 when I learned Coffee.  When I became good at it, I raised them by another third.  My clients are happy because I complete projects faster.  So are my friends, and my bank account.  *(Plus, better efficiency means less electricity wasted on long hours, and [I love sustainability](http://designersaccord.org).)*  Anecdotal, but many feel the same way:
 
-"And I believe the vast majority of JS developers will see productivity gains by embracing CoffeeScript." [\[6\]](http://www.quora.com/CoffeeScript/What-are-disadvantages-of-using-CoffeeScript "What are disadvantages of using CoffeeScript?").
+"And I believe the vast majority of JS developers will see productivity gains by embracing CoffeeScript." [\[6\]](http://www.quora.com/CoffeeScript/What-are-disadvantages-of-using-CoffeeScript/answer/Trevor-Burnham "Trevor Burnham answers: What are disadvantages of using CoffeeScript?").
 
 "...easier to read and a lot faster to produce." [\[7\]](http://www.ibm.com/developerworks/web/library/j-coffeescript/index.html "Functional JavaScript with CoffeeScript and Node")
 
@@ -100,7 +100,7 @@ Such statements are rather common.  There is even a site dedicated to CoffeeScri
 
 [5] "Contracts.coffee" http://disnetdev.com/contracts.coffee/
 
-[6] "What are disadvantages of using CoffeeScript?" http://www.quora.com/CoffeeScript/What-are-disadvantages-of-using-CoffeeScript
+[6] "Trevor Burnham answers: What are disadvantages of using CoffeeScript?" http://www.quora.com/CoffeeScript/What-are-disadvantages-of-using-CoffeeScript/answer/Trevor-Burnham
 
 [7] "Functional JavaScript with CoffeeScript and Node" http://www.ibm.com/developerworks/web/library/j-coffeescript/index.html
 
